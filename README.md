@@ -6,10 +6,12 @@
 
 ## 安装
 
+Python >=3.8
+
 在运行本项目之前，需要安装一些必要的Python库。可以通过以下命令安装：
 
 ```
-pip install gym
+pip install -r requirements.txt
 ```
 
 ## 使用
