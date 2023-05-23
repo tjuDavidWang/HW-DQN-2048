@@ -51,3 +51,12 @@ pip install -r requirements.txt
     ```
     
 2. 在`main.ipynb` notebook中，按顺序执行每个cell。但请注意，**跳过**名为“开始训练”的cell。这是因为我们已经提供了预训练好的模型文件`2048.pt`，你无需重新训练。
+
+## References：
+
+[1]Dedieu A, Amar J. Deep reinforcement learning for 2048[C]//Conference on Neural Information Processing Systems (NIPS), 31st, Long Beach, CA, USA. 2017.
+[2]https://cs.uwaterloo.ca/~mli/zalevine-dqn-2048.pdf
+[3]https://bbs.huaweicloud.com/blogs/383829
+[4]https://blog.csdn.net/weixin_39891381/article/details/103253968?spm=1001.2014.3001.5506
+[5]https://github.com/FelipeMarcelino/2048-Gym
+[6]https://github.com/rgal/gym-2048
